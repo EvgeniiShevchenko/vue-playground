@@ -2,6 +2,8 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js + TypeScript App" />
+    <font-awesome-icon icon="calendar-alt" />
+    <el-button type="success">Success</el-button>
   </div>
 </template>
 
